@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reactdev/static/css/main.d96d1dbf.css",
+    "main.js": "/Reactdev/static/js/main.700b0380.js",
+    "static/media/somak1.jpg": "/Reactdev/static/media/somak1.f06722abe8928253b30a.jpg",
+    "static/media/somak12.jpg": "/Reactdev/static/media/somak12.76385d5e11c5086d575a.jpg",
+    "static/media/somak4.jpg": "/Reactdev/static/media/somak4.9af83e61a458fe2575fb.jpg",
+    "static/media/somak3.jpg": "/Reactdev/static/media/somak3.cde8d41f67e12f12bfe9.jpg",
+    "static/media/somak2.jpg": "/Reactdev/static/media/somak2.cd649c5b7e52ace16d47.jpg",
+    "static/media/somak5.jpg": "/Reactdev/static/media/somak5.700c5a4c6d689a9c1f9b.jpg",
+    "index.html": "/Reactdev/index.html",
+    "main.d96d1dbf.css.map": "/Reactdev/static/css/main.d96d1dbf.css.map",
+    "main.700b0380.js.map": "/Reactdev/static/js/main.700b0380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96d1dbf.css",
+    "static/js/main.700b0380.js"
+  ]
+}
